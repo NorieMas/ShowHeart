@@ -1,0 +1,6 @@
+main: showheart.by.milkatiger.Main
+version: 1.0
+name: ShowHeart
+commands:
+  IF:
+    usage: /<command>
